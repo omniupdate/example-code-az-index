@@ -19,7 +19,7 @@
 	exclude-result-prefixes="ou xsl xs fn ouc">
 	
 	<xsl:import href="common.xsl"/>
-	<!--<xsl:param name="extension" select="'.html'"/>--> <!-- If not in variables.xsl -->
+	<!--<xsl:param name="extension" select="'html'"/>--> <!-- If not in variables.xsl -->
 	
 	<xsl:template name="page-content">
 		<xsl:variable name="xmlfile" select="concat($ou:httproot,'sitemap.xml')"/>

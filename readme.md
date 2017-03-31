@@ -23,3 +23,8 @@ Once it is implemented, the managing an A-Z index is a simple process. To modify
 4. Publish the A-Z index page.
 
 More information about OU Campus' sitemap can be found on the [OU Campus Support Site](http://support.omniupdate.com/oucampus10/setup/sites/site-actions/sitemap.html).
+
+## Additional Information
+
+- The Index listing displays the page title for all pages that it can find a title for. If the title is not available, you will see the page's URL displayed. 
+- The A-Z Index will only display pages that are listed with a particular extension. The extension is determined by the XSL parameter "extension", which should be uncommented and adjusted at the top of `/_resources/xsl/az-index.xsl` if it is not previously defined (commonly available in `/_resources/xsl/_shared/variables.xsl`). 
