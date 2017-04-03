@@ -1,3 +1,5 @@
+***The included source code, service and information is provided as is, and OmniUpdate makes no promises or guarantees about its use or misuse. The source code provided is recommended for advanced users and may not be compatible with all implementations of OU Campus.***
+
 # A to Z Index
 
 This package contains the code needed to take an OU Campus sitemap and output a list of each page in the sitemap at the time the page is published. The default styling for the output uses Bootstrap, which can be adjusted with CSS/XSL for different output structures and styles. 
