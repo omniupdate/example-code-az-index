@@ -24,7 +24,7 @@ Once it is implemented, the managing an A-Z index is a simple process. To modify
 
 4. Publish the A-Z index page.
 
-More information about OU Campus' sitemap can be found on the [OU Campus Support Site](http://support.omniupdate.com/oucampus10/setup/sites/site-actions/sitemap.html).
+More information about OU Campus' sitemap can be found on the [OU Campus Support Site](https://support.omniupdate.com/learn-ou-campus/administration/setup/sites/index.html#publish).
 
 ## Additional Information
 
